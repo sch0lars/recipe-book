@@ -1,26 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="BookID">
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="bookid" prefix="cc: http://creativecommons.org/ns#">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
             xmlns:dcterms="http://purl.org/dc/terms/"
             xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title id="title">Sample EPUB 3.0</dc:title>
-    <dc:creator id="creator" opf:role="aut">Tyler Hooks</dc:creator>
-    <dc:language>en</dc:language>
-    <meta refines="#title" property="title-type">main</meta>
-    <meta refines="#creator" property="file-as">Hooks, Tyler</meta>
+    <dc:identifier id="bookid">TH092423</dc:identifier>
+    <dc:title>Recipes</dc:title>
+    <dc:creator>Tyler Hooks</dc:creator>
+    <dc:language>en-US</dc:language>
+    <meta property="dcterms:modified">2023-09-24T10:31:00Z</meta>
   </metadata>
   <manifest>
-    <item id="cover" href="Images/Cover.jpg" media-type="image/jpeg"/>
-    <item id="toc" href="Text/TOC.xhtml" media-type="application/xhtml+xml" properties="nav"/>
-    <item id="beef" href="Text/Beef.xhtml" media-type="application/xhtml+xml"/>
-    <item id="chicken" href="Text/Chicken.xhtml" media-type="application/xhtml+xml"/>
-    <item id="comfort" href="Text/Comfort.xhtml" media-type="application/xhtml+xml"/>
+     <item id="american_goulash" href="Text/american_goulash.xhtml" media-type="application/xhtml+xml"/>
+     <item id="beef" href="Text/Beef.xhtml" media-type="application/xhtml+xml"/>
+     <item id="biscuits" href="Text/biscuits.xhtml" media-type="application/xhtml+xml"/>
+     <item id="chicken" href="Text/Chicken.xhtml" media-type="application/xhtml+xml"/>
+     <item id="chicken_and_dumplings" href="Text/chicken_and_dumplings.xhtml" media-type="application/xhtml+xml"/>
+     <item id="classic_chili" href="Text/classic_chili.xhtml" media-type="application/xhtml+xml"/>
+     <item id="coca_cola_chicken" href="Text/coca_cola_chicken.xhtml" media-type="application/xhtml+xml"/>
+     <item id="comfort" href="Text/Comfort.xhtml" media-type="application/xhtml+xml"/>
+     <item id="coney_sauce" href="Text/coney_sauce.xhtml" media-type="application/xhtml+xml"/>
+     <item id="cornbread_dressing" href="Text/cornbread_dressing.xhtml" media-type="application/xhtml+xml"/>
+     <item id="cover" href="Text/Cover.xhtml" media-type="application/xhtml+xml"/>
+     <item id="cover_image" href="Images/cover.png" media-type="image/png"/>
+     <item id="grape_jelly_meatballs" href="Text/grape_jelly_meatballs.xhtml" media-type="application/xhtml+xml"/>
+     <item id="hamburger_stroganoff" href="Text/hamburger_stroganoff.xhtml" media-type="application/xhtml+xml"/>
+     <item id="hash_browns" href="Text/hash_browns.xhtml" media-type="application/xhtml+xml"/>
+     <item id="honey_chicken" href="Text/honey_chicken.xhtml" media-type="application/xhtml+xml"/>
+     <item id="honey_mustard" href="Text/honey_mustard.xhtml" media-type="application/xhtml+xml"/>
+     <item id="hot_honey_chicken_sandwiches" href="Text/hot_honey_chicken_sandwiches.xhtml" media-type="application/xhtml+xml"/>
+     <item id="jambalaya" href="Text/jambalaya.xhtml" media-type="application/xhtml+xml"/>
+     <item id="mayo_chicken" href="Text/mayo_chicken.xhtml" media-type="application/xhtml+xml"/>
+     <item id="meatloaf" href="Text/meatloaf.xhtml" media-type="application/xhtml+xml"/>
+     <item id="mustard_bbq" href="Text/mustard_bbq.xhtml" media-type="application/xhtml+xml"/>
+     <item id="pancakes" href="Text/pancakes.xhtml" media-type="application/xhtml+xml"/>
+     <item id="ranch_potato_salad" href="Text/ranch_potato_salad.xhtml" media-type="application/xhtml+xml"/>
+     <item id="sausage_gravy_biscuits" href="Text/sausage_gravy_biscuits.xhtml" media-type="application/xhtml+xml"/>
+     <item id="shrimp_and_grits" href="Text/shrimp_and_grits.xhtml" media-type="application/xhtml+xml"/>
+     <item id="shrimp_boil" href="Text/shrimp_boil.xhtml" media-type="application/xhtml+xml"/>
+     <item id="sloppy_joes" href="Text/sloppy_joes.xhtml" media-type="application/xhtml+xml"/>
+     <item id="stewed_squash" href="Text/stewed_squash.xhtml" media-type="application/xhtml+xml"/>
+     <item id="stovetop_mac_and_cheese" href="Text/stovetop_mac_and_cheese.xhtml" media-type="application/xhtml+xml"/>
+     <item id="styles" href="Styles/styles.css" media-type="text/css"/>
+     <item id="tater_tot_casserole" href="Text/tater_tot_casserole.xhtml" media-type="application/xhtml+xml"/>
+     <item id="toc" href="Text/TOC.xhtml" properties="nav" media-type="application/xhtml+xml"/>
   </manifest>
-  <spine toc="toc">
+  <spine>
     <itemref idref="cover"/>
     <itemref idref="toc"/>
     <itemref idref="beef"/>
+    <itemref idref="classic_chili"/>
+    <itemref idref="coney_sauce"/>
+    <itemref idref="grape_jelly_meatballs"/>
+    <itemref idref="hamburger_stroganoff"/>
+    <itemref idref="sloppy_joes"/>
+    <itemref idref="tater_tot_casserole"/>
+    
     <itemref idref="chicken"/>
+    <itemref idref="coca_cola_chicken"/>
+    <itemref idref="honey_chicken"/>
+    <itemref idref="hot_honey_chicken_sandwiches"/>
+    <itemref idref="mayo_chicken"/>
+    
     <itemref idref="comfort"/>
+    <itemref idref="american_goulash"/>
+    <itemref idref="biscuits"/>
+    <itemref idref="chicken_and_dumplings"/>
+    <itemref idref="cornbread_dressing"/>
+    <itemref idref="hash_browns"/>
+    <itemref idref="honey_mustard"/>
+    <itemref idref="jambalaya"/>   
+    <itemref idref="meatloaf"/>
+    <itemref idref="mustard_bbq"/>
+    <itemref idref="pancakes"/>
+    <itemref idref="ranch_potato_salad"/>
+    <itemref idref="sausage_gravy_biscuits"/>
+    <itemref idref="shrimp_and_grits"/>
+    <itemref idref="shrimp_boil"/>
+    <itemref idref="stewed_squash"/>
+    <itemref idref="stovetop_mac_and_cheese"/>
   </spine>
 </package>

@@ -1,0 +1,15 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt;
+}
+
+/* Style for the cover image */
+.container {
+    text-align: center;
+}
+
+/* Style for page titles */
+h1.title {
+    font-size: 40px;
+    text-align: center;
+}
