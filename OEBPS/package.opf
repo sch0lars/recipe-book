@@ -11,10 +11,14 @@
   </metadata>
   <manifest>
      <item id="american-goulash" href="Text/american_goulash.xhtml" media-type="application/xhtml+xml"/>
+     <item id="banana-bread" href="Text/banana_bread.xhtml" media-type="application/xhtml+xml"/>
+     <item id="banana-pudding" href="Text/banana_pudding.xhtml" media-type="application/xhtml+xml"/>
      <item id="beef" href="Text/Beef.xhtml" media-type="application/xhtml+xml"/>
      <item id="biscuits" href="Text/biscuits.xhtml" media-type="application/xhtml+xml"/>
+     <item id="carrot-cake" href="Text/carrot_cake.xhtml" media-type="application/xhtml+xml"/>
      <item id="chicken" href="Text/Chicken.xhtml" media-type="application/xhtml+xml"/>
      <item id="chicken-and-dumplings" href="Text/chicken_and_dumplings.xhtml" media-type="application/xhtml+xml"/>
+     <item id="chocolate-chip-cookies" href="Text/chocolate_chip_cookies.xhtml" media-type="application/xhtml+xml"/>
      <item id="classic-chili" href="Text/classic_chili.xhtml" media-type="application/xhtml+xml"/>
      <item id="coca-cola-chicken" href="Text/coca_cola_chicken.xhtml" media-type="application/xhtml+xml"/>
      <item id="comfort" href="Text/Comfort.xhtml" media-type="application/xhtml+xml"/>
@@ -22,6 +26,7 @@
      <item id="cornbread-dressing" href="Text/cornbread_dressing.xhtml" media-type="application/xhtml+xml"/>
      <item id="cover" href="Text/Cover.xhtml" media-type="application/xhtml+xml"/>
      <item id="cover-image" href="Images/cover.png" properties="cover-image" media-type="image/png"/>
+     <item id="desserts" href="Text/desserts.xhtml" media-type="application/xhtml+xml"/>
      <item id="grape-jelly-meatballs" href="Text/grape_jelly_meatballs.xhtml" media-type="application/xhtml+xml"/>
      <item id="hamburger-stroganoff" href="Text/hamburger_stroganoff.xhtml" media-type="application/xhtml+xml"/>
      <item id="hash-browns" href="Text/hash_browns.xhtml" media-type="application/xhtml+xml"/>
@@ -29,10 +34,14 @@
      <item id="honey-mustard" href="Text/honey_mustard.xhtml" media-type="application/xhtml+xml"/>
      <item id="hot-honey-chicken-sandwiches" href="Text/hot_honey_chicken_sandwiches.xhtml" media-type="application/xhtml+xml"/>
      <item id="jambalaya" href="Text/jambalaya.xhtml" media-type="application/xhtml+xml"/>
+     <item id="key-lime-cake" href="Text/key_lime_cake.xhtml" media-type="application/xhtml+xml"/>
      <item id="mayo-chicken" href="Text/mayo_chicken.xhtml" media-type="application/xhtml+xml"/>
      <item id="meatloaf" href="Text/meatloaf.xhtml" media-type="application/xhtml+xml"/>
      <item id="mustard-bbq" href="Text/mustard_bbq.xhtml" media-type="application/xhtml+xml"/>
+     <item id="orange-julius" href="Text/orange_julius.xhtml" media-type="application/xhtml+xml"/>
      <item id="pancakes" href="Text/pancakes.xhtml" media-type="application/xhtml+xml"/>
+     <item id="peach-cobbler" href="Text/peach_cobbler.xhtml" media-type="application/xhtml+xml"/>
+     <item id="pumpkin-cheesecake" href="Text/pumpkin_cheesecake.xhtml" media-type="application/xhtml+xml"/>
      <item id="ranch-potato-salad" href="Text/ranch_potato_salad.xhtml" media-type="application/xhtml+xml"/>
      <item id="sausage-gravy-biscuits" href="Text/sausage_gravy_biscuits.xhtml" media-type="application/xhtml+xml"/>
      <item id="shrimp-and-grits" href="Text/shrimp_and_grits.xhtml" media-type="application/xhtml+xml"/>
@@ -78,5 +87,15 @@
     <itemref idref="shrimp-boil"/>
     <itemref idref="stewed-squash"/>
     <itemref idref="stovetop-mac-and-cheese"/>
+
+    <itemref idref="desserts"/>
+    <itemref idref="banana-bread"/>
+    <itemref idref="banana-pudding"/>
+    <itemref idref="carrot-cake"/>
+    <itemref idref="chocolate-chip-cookies"/>
+    <itemref idref="key-lime-cake"/>
+    <itemref idref="orange-julius"/>
+    <itemref idref="peach-cobbler"/>
+    <itemref idref="pumpkin-cheesecake"/>
   </spine>
 </package>
