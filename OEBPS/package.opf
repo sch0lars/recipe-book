@@ -53,7 +53,6 @@
      <item id="pancakes" href="Text/pancakes.xhtml" media-type="application/xhtml+xml"/>
      <item id="peach-cobbler" href="Text/peach_cobbler.xhtml" media-type="application/xhtml+xml"/>
      <item id="philly-cheesesteak" href="Text/philly_cheesesteak.xhtml" media-type="application/xhtml+xml"/>
-     <item id="pork-chops-gravy" href="Text/pork_chops_gravy.xhtml" media-type="application/xhtml+xml"/>
      <item id="pork-chops-onion-soup" href="Text/pork_chops_onion_soup.xhtml" media-type="application/xhtml+xml"/>
      <item id="pot-roast" href="Text/pot_roast.xhtml" media-type="application/xhtml+xml"/>
      <item id="pumpkin-cheesecake" href="Text/pumpkin_cheesecake.xhtml" media-type="application/xhtml+xml"/>
@@ -127,7 +126,6 @@
     <itemref idref="instant-pot-burgers"/>
     <itemref idref="instant-pot-steak"/>
     <itemref idref="philly-cheesesteak"/>
-    <itemref idref="pork-chops-gravy"/>
     <itemref idref="pork-chops-onion-soup"/>
     <itemref idref="pot-roast"/>
     <itemref idref="sweet-and-sour-pork"/>
