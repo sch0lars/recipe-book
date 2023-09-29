@@ -34,14 +34,14 @@
      <item id="cornbread-dressing" href="Text/cornbread_dressing.xhtml" media-type="application/xhtml+xml"/>
      <item id="cover" href="Text/Cover.xhtml" media-type="application/xhtml+xml"/>
      <item id="cover-image" href="Images/cover.png" properties="cover-image" media-type="image/png"/>
-     <item id="desserts" href="Text/desserts.xhtml" media-type="application/xhtml+xml"/>
+     <item id="desserts" href="Text/Desserts.xhtml" media-type="application/xhtml+xml"/>
      <item id="grape-jelly-meatballs" href="Text/grape_jelly_meatballs.xhtml" media-type="application/xhtml+xml"/>
      <item id="hamburger-stroganoff" href="Text/hamburger_stroganoff.xhtml" media-type="application/xhtml+xml"/>
      <item id="hash-browns" href="Text/hash_browns.xhtml" media-type="application/xhtml+xml"/>
      <item id="honey-chicken" href="Text/honey_chicken.xhtml" media-type="application/xhtml+xml"/>
      <item id="honey-mustard" href="Text/honey_mustard.xhtml" media-type="application/xhtml+xml"/>
      <item id="hot-honey-chicken-sandwiches" href="Text/hot_honey_chicken_sandwiches.xhtml" media-type="application/xhtml+xml"/>
-     <item id="instant-pot" href="Text/instant_pot.xhtml" media-type="application/xhtml+xml"/>
+     <item id="instant-pot" href="Text/InstantPot.xhtml" media-type="application/xhtml+xml"/>
      <item id="instant-pot-burgers" href="Text/instant_pot_burgers.xhtml" media-type="application/xhtml+xml"/>
      <item id="instant-pot-steak" href="Text/instant_pot_steak.xhtml" media-type="application/xhtml+xml"/>
      <item id="jambalaya" href="Text/jambalaya.xhtml" media-type="application/xhtml+xml"/>
@@ -70,8 +70,8 @@
      <item id="teriyaki-chicken" href="Text/teriyaki_chicken.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
-    <itemref idref="cover" linear="no"/>
-    <itemref idref="table-of-contents" linear="yes"/>
+    <itemref idref="cover"/>
+    <itemref idref="table-of-contents"/>
     <itemref idref="beef"/>
     <itemref idref="classic-chili"/>
     <itemref idref="coney-sauce"/>
