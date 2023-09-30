@@ -1,0 +1,10 @@
+name: compile-epub
+run-name: Compiling EPUB
+on: [push]
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run rm recipes.epub
+      - run: zip -0Xq  ${GITHUB_WORKSPACE}/recipes.epub ${GITHUB_WORKSPACE}/mimetype; zip -Xr9Dq ${GITHUB_WORKSPACE}/recipes.epub ${GITHUB_WORKSPACE}/META-INF/ && zip -Xr9Dq ${GITHUB_WORKSPACE}/recipes.epub ${GITHUB_WORKSPACE}/OEBPS/
