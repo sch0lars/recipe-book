@@ -1,4 +1,4 @@
-${GITHUB_WORKSPACE}/name: compile-epub
+name: compile-epub
 run-name: Compiling EPUB
 on: [push]
 jobs:
