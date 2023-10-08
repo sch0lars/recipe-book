@@ -10,80 +10,86 @@
     <meta property="dcterms:modified">2023-09-24T10:31:00Z</meta>
   </metadata>
   <manifest>
-     <item id="american-goulash" href="Text/american_goulash.xhtml" media-type="application/xhtml+xml"/>
-     <item id="baked-chicken-chimichangas" href="Text/baked_chicken_chimichangas.xhtml" media-type="application/xhtml+xml"/>     
-     <item id="baked-potatoes" href="Text/baked_potatoes.xhtml" media-type="application/xhtml+xml"/>        
-     <item id="banana-bread" href="Text/banana_bread.xhtml" media-type="application/xhtml+xml"/>
-     <item id="banana-pudding" href="Text/banana_pudding.xhtml" media-type="application/xhtml+xml"/>
-     <item id="bbq-chicken" href="Text/bbq_chicken.xhtml" media-type="application/xhtml+xml"/>
-     <item id="bbq-pulled-pork" href="Text/bbq_pulled_pork.xhtml" media-type="application/xhtml+xml"/>
-     <item id="bbq-ribs" href="Text/bbq_ribs.xhtml" media-type="application/xhtml+xml"/>
-     <item id="beef" href="Text/Beef.xhtml" media-type="application/xhtml+xml"/>
-     <item id="beef-stew" href="Text/beef_stew.xhtml" media-type="application/xhtml+xml"/>
-     <item id="beef-tips" href="Text/beef_tips.xhtml" media-type="application/xhtml+xml"/>
-     <item id="biscuits" href="Text/biscuits.xhtml" media-type="application/xhtml+xml"/>
-     <item id="butter-chicken" href="Text/butter_chicken.xhtml" media-type="application/xhtml+xml"/>
-     <item id="carrot-cake" href="Text/carrot_cake.xhtml" media-type="application/xhtml+xml"/>
-     <item id="chicken" href="Text/Chicken.xhtml" media-type="application/xhtml+xml"/>
-     <item id="chicken-and-dumplings" href="Text/chicken_and_dumplings.xhtml" media-type="application/xhtml+xml"/>
-     <item id="chicken-and-rice" href="Text/chicken_and_rice.xhtml" media-type="application/xhtml+xml"/>
-     <item id="chili-mac" href="Text/chili_mac.xhtml" media-type="application/xhtml+xml"/>
-     <item id="chocolate-chip-cookies" href="Text/chocolate_chip_cookies.xhtml" media-type="application/xhtml+xml"/>
-     <item id="classic-chili" href="Text/classic_chili.xhtml" media-type="application/xhtml+xml"/>
-     <item id="coca-cola-chicken" href="Text/coca_cola_chicken.xhtml" media-type="application/xhtml+xml"/>
-     <item id="comfort" href="Text/Comfort.xhtml" media-type="application/xhtml+xml"/>
-     <item id="coney-sauce" href="Text/coney_sauce.xhtml" media-type="application/xhtml+xml"/>
-     <item id="cornbread-dressing" href="Text/cornbread_dressing.xhtml" media-type="application/xhtml+xml"/>
-     <item id="cover" href="Text/Cover.xhtml" media-type="application/xhtml+xml"/>
-     <item id="cover-image" href="Images/cover.png" properties="cover-image" media-type="image/png"/>
-     <item id="desserts" href="Text/Desserts.xhtml" media-type="application/xhtml+xml"/>
-     <item id="double-ka-meetha" href="Text/double_ka_meetha.xhtml" media-type="application/xhtml+xml"/>
-     <item id="grape-jelly-meatballs" href="Text/grape_jelly_meatballs.xhtml" media-type="application/xhtml+xml"/>
-     <item id="hambagu" href="Text/hambagu.xhtml" media-type="application/xhtml+xml"/>
-     <item id="hamburger-stroganoff" href="Text/hamburger_stroganoff.xhtml" media-type="application/xhtml+xml"/>
-     <item id="hash-browns" href="Text/hash_browns.xhtml" media-type="application/xhtml+xml"/>
-     <item id="haupia" href="Text/haupia.xhtml" media-type="application/xhtml+xml"/>
-     <item id="hawaiian-macaroni-salad" href="Text/hawaiian_macaroni_salad.xhtml" media-type="application/xhtml+xml"/>
-     <item id="honey-chicken" href="Text/honey_chicken.xhtml" media-type="application/xhtml+xml"/>
-     <item id="honey-mustard" href="Text/honey_mustard.xhtml" media-type="application/xhtml+xml"/>
-     <item id="hot-honey-chicken-sandwiches" href="Text/hot_honey_chicken_sandwiches.xhtml" media-type="application/xhtml+xml"/>
-     <item id="instant-pot" href="Text/InstantPot.xhtml" media-type="application/xhtml+xml"/>
-     <item id="instant-pot-burgers" href="Text/instant_pot_burgers.xhtml" media-type="application/xhtml+xml"/>
-     <item id="instant-pot-steak" href="Text/instant_pot_steak.xhtml" media-type="application/xhtml+xml"/>
-     <item id="international" href="Text/International.xhtml" media-type="application/xhtml+xml"/>
-     <item id="jambalaya" href="Text/jambalaya.xhtml" media-type="application/xhtml+xml"/>
-     <item id="key-lime-cake" href="Text/key_lime_cake.xhtml" media-type="application/xhtml+xml"/>
-     <item id="kimchi-spam-fried-rice" href="Text/kimchi_spam_fried_rice.xhtml" media-type="application/xhtml+xml"/>
-     <item id="korean-beef-bowls" href="Text/korean_beef_bowls.xhtml" media-type="application/xhtml+xml"/>
-     <item id="mango-sticky-rice" href="Text/mango_sticky_rice.xhtml" media-type="application/xhtml+xml"/>
-     <item id="mayo-chicken" href="Text/mayo_chicken.xhtml" media-type="application/xhtml+xml"/>
-     <item id="meatloaf" href="Text/meatloaf.xhtml" media-type="application/xhtml+xml"/>
-     <item id="mustard-bbq" href="Text/mustard_bbq.xhtml" media-type="application/xhtml+xml"/>
-     <item id="orange-julius" href="Text/orange_julius.xhtml" media-type="application/xhtml+xml"/>
-     <item id="pancakes" href="Text/pancakes.xhtml" media-type="application/xhtml+xml"/>
-     <item id="peach-cobbler" href="Text/peach_cobbler.xhtml" media-type="application/xhtml+xml"/>
-     <item id="philly-cheesesteak" href="Text/philly_cheesesteak.xhtml" media-type="application/xhtml+xml"/>
-     <item id="pork-chops-onion-soup" href="Text/pork_chops_onion_soup.xhtml" media-type="application/xhtml+xml"/>
-     <item id="pot-roast" href="Text/pot_roast.xhtml" media-type="application/xhtml+xml"/>
-     <item id="pumpkin-cheesecake" href="Text/pumpkin_cheesecake.xhtml" media-type="application/xhtml+xml"/>
-     <item id="ranch-potato-salad" href="Text/ranch_potato_salad.xhtml" media-type="application/xhtml+xml"/>
-     <item id="sausage-gravy-biscuits" href="Text/sausage_gravy_biscuits.xhtml" media-type="application/xhtml+xml"/>
-     <item id="shrimp-and-grits" href="Text/shrimp_and_grits.xhtml" media-type="application/xhtml+xml"/>
-     <item id="shrimp-boil" href="Text/shrimp_boil.xhtml" media-type="application/xhtml+xml"/>
-     <item id="sloppy-joes" href="Text/sloppy_joes.xhtml" media-type="application/xhtml+xml"/>
-     <item id="soondubuchigae" href="Text/soondubuchigae.xhtml" media-type="application/xhtml+xml"/>
-     <item id="spam-musubi" href="Text/spam_musubi.xhtml" media-type="application/xhtml+xml"/>
-     <item id="spinach-quesadillas" href="Text/spinach_quesadillas.xhtml" media-type="application/xhtml+xml"/>
-     <item id="stewed-squash" href="Text/stewed_squash.xhtml" media-type="application/xhtml+xml"/>
-     <item id="stovetop-mac-and-cheese" href="Text/stovetop_mac_and_cheese.xhtml" media-type="application/xhtml+xml"/>
-     <item id="sweet-and-sour-pork" href="Text/sweet_and_sour_pork.xhtml" media-type="application/xhtml+xml"/>
-     <item id="styles" href="Styles/styles.css" media-type="text/css"/>
-     <item id="table-of-contents" href="Text/TOC.xhtml" properties="nav" media-type="application/xhtml+xml"/>
-     <item id="taco-sauce" href="Text/taco_sauce.xhtml" media-type="application/xhtml+xml"/>
-     <item id="tater-tot-casserole" href="Text/tater_tot_casserole.xhtml" media-type="application/xhtml+xml"/>
-     <item id="teriyaki-chicken" href="Text/teriyaki_chicken.xhtml" media-type="application/xhtml+xml"/>
-     <item id="teriyaki-sauce" href="Text/teriyaki_sauce.xhtml" media-type="application/xhtml+xml"/>
-     <item id="tomato-egg-stir-fry" href="Text/tomato_egg_stir_fry.xhtml" media-type="application/xhtml+xml"/>
+    <item id="american-goulash" href="Text/american_goulash.xhtml" media-type="application/xhtml+xml"/>
+    <item id="baked-chicken-chimichangas" href="Text/baked_chicken_chimichangas.xhtml" media-type="application/xhtml+xml"/>     
+    <item id="baked-potatoes" href="Text/baked_potatoes.xhtml" media-type="application/xhtml+xml"/>        
+    <item id="baked-ziti" href="Text/baked_ziti.xhtml" media-type="application/xhtml+xml"/>
+    <item id="banana-bread" href="Text/banana_bread.xhtml" media-type="application/xhtml+xml"/>
+    <item id="banana-pudding" href="Text/banana_pudding.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bbq-chicken" href="Text/bbq_chicken.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bbq-pulled-pork" href="Text/bbq_pulled_pork.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bbq-ribs" href="Text/bbq_ribs.xhtml" media-type="application/xhtml+xml"/>
+    <item id="beef" href="Text/Beef.xhtml" media-type="application/xhtml+xml"/>
+    <item id="beef-stew" href="Text/beef_stew.xhtml" media-type="application/xhtml+xml"/>
+    <item id="beef-tips" href="Text/beef_tips.xhtml" media-type="application/xhtml+xml"/>
+    <item id="biscuits" href="Text/biscuits.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bow-ties-sausage" href="Text/bow_ties_sausage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="butter-chicken" href="Text/butter_chicken.xhtml" media-type="application/xhtml+xml"/>
+    <item id="carrot-cake" href="Text/carrot_cake.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chicken" href="Text/Chicken.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chicken-and-dumplings" href="Text/chicken_and_dumplings.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chicken-and-rice" href="Text/chicken_and_rice.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chili-mac" href="Text/chili_mac.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chocolate-chip-cookies" href="Text/chocolate_chip_cookies.xhtml" media-type="application/xhtml+xml"/>
+    <item id="classic-chili" href="Text/classic_chili.xhtml" media-type="application/xhtml+xml"/>
+    <item id="coca-cola-chicken" href="Text/coca_cola_chicken.xhtml" media-type="application/xhtml+xml"/>
+    <item id="comfort" href="Text/Comfort.xhtml" media-type="application/xhtml+xml"/>
+    <item id="coney-sauce" href="Text/coney_sauce.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cornbread-dressing" href="Text/cornbread_dressing.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover" href="Text/Cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-image" href="Images/cover.png" properties="cover-image" media-type="image/png"/>
+    <item id="desserts" href="Text/Desserts.xhtml" media-type="application/xhtml+xml"/>
+    <item id="double-ka-meetha" href="Text/double_ka_meetha.xhtml" media-type="application/xhtml+xml"/>
+    <item id="grape-jelly-meatballs" href="Text/grape_jelly_meatballs.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hambagu" href="Text/hambagu.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hamburger-stroganoff" href="Text/hamburger_stroganoff.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hash-browns" href="Text/hash_browns.xhtml" media-type="application/xhtml+xml"/>
+    <item id="haupia" href="Text/haupia.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hawaiian-macaroni-salad" href="Text/hawaiian_macaroni_salad.xhtml" media-type="application/xhtml+xml"/>
+    <item id="honey-chicken" href="Text/honey_chicken.xhtml" media-type="application/xhtml+xml"/>
+    <item id="honey-mustard" href="Text/honey_mustard.xhtml" media-type="application/xhtml+xml"/>
+    <item id="hot-honey-chicken-sandwiches" href="Text/hot_honey_chicken_sandwiches.xhtml" media-type="application/xhtml+xml"/>
+    <item id="instant-pot" href="Text/InstantPot.xhtml" media-type="application/xhtml+xml"/>
+    <item id="instant-pot-burgers" href="Text/instant_pot_burgers.xhtml" media-type="application/xhtml+xml"/>
+    <item id="instant-pot-steak" href="Text/instant_pot_steak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="international" href="Text/International.xhtml" media-type="application/xhtml+xml"/>
+    <item id="jambalaya" href="Text/jambalaya.xhtml" media-type="application/xhtml+xml"/>
+    <item id="key-lime-cake" href="Text/key_lime_cake.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kimchi-spam-fried-rice" href="Text/kimchi_spam_fried_rice.xhtml" media-type="application/xhtml+xml"/>
+    <item id="korean-beef-bowls" href="Text/korean_beef_bowls.xhtml" media-type="application/xhtml+xml"/>
+    <item id="mango-sticky-rice" href="Text/mango_sticky_rice.xhtml" media-type="application/xhtml+xml"/>
+    <item id="mayo-chicken" href="Text/mayo_chicken.xhtml" media-type="application/xhtml+xml"/>
+    <item id="meatloaf" href="Text/meatloaf.xhtml" media-type="application/xhtml+xml"/>
+    <item id="mustard-bbq" href="Text/mustard_bbq.xhtml" media-type="application/xhtml+xml"/>
+    <item id="orange-julius" href="Text/orange_julius.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pancakes" href="Text/pancakes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pasta" href="Text/Pasta.xhtml" media-type="application/xhtml+xml"/>
+    <item id="peach-cobbler" href="Text/peach_cobbler.xhtml" media-type="application/xhtml+xml"/>
+    <item id="philly-cheesesteak" href="Text/philly_cheesesteak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pork-chops-onion-soup" href="Text/pork_chops_onion_soup.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pot-roast" href="Text/pot_roast.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pumpkin-cheesecake" href="Text/pumpkin_cheesecake.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ranch-potato-salad" href="Text/ranch_potato_salad.xhtml" media-type="application/xhtml+xml"/>
+    <item id="rotini-pasta-salad" href="Text/rotini_pasta_salad.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sausage-gravy-biscuits" href="Text/sausage_gravy_biscuits.xhtml" media-type="application/xhtml+xml"/>
+    <item id="shrimp-and-grits" href="Text/shrimp_and_grits.xhtml" media-type="application/xhtml+xml"/>
+    <item id="shrimp-boil" href="Text/shrimp_boil.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sloppy-joes" href="Text/sloppy_joes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="soondubuchigae" href="Text/soondubuchigae.xhtml" media-type="application/xhtml+xml"/>
+    <item id="spaghetti-sauce" href="Text/spaghetti_sauce.xhtml" media-type="application/xhtml+xml"/>
+    <item id="spam-musubi" href="Text/spam_musubi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="spinach-quesadillas" href="Text/spinach_quesadillas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="stewed-squash" href="Text/stewed_squash.xhtml" media-type="application/xhtml+xml"/>
+    <item id="stovetop-mac-and-cheese" href="Text/stovetop_mac_and_cheese.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sweet-and-sour-pork" href="Text/sweet_and_sour_pork.xhtml" media-type="application/xhtml+xml"/>
+    <item id="styles" href="Styles/styles.css" media-type="text/css"/>
+    <item id="table-of-contents" href="Text/TOC.xhtml" properties="nav" media-type="application/xhtml+xml"/>
+    <item id="taco-sauce" href="Text/taco_sauce.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tater-tot-casserole" href="Text/tater_tot_casserole.xhtml" media-type="application/xhtml+xml"/>
+    <item id="teriyaki-chicken" href="Text/teriyaki_chicken.xhtml" media-type="application/xhtml+xml"/>
+    <item id="teriyaki-sauce" href="Text/teriyaki_sauce.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tomato-egg-stir-fry" href="Text/tomato_egg_stir_fry.xhtml" media-type="application/xhtml+xml"/>
+    <item id="turkey-tetrazzini" href="Text/turkey_tetrazzini.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
     <itemref idref="cover"/>
@@ -163,5 +169,12 @@
     <itemref idref="taco-sauce"/>
     <itemref idref="teriyaki-sauce"/>
     <itemref idref="tomato-egg-stir-fry"/>
+
+    <itemref idref="pasta"/>
+    <itemref idref="baked-ziti"/>
+    <itemref idref="bow-ties-sausage"/>
+    <itemref idref="rotini-pasta-salad"/>
+    <itemref idref="spaghetti-sauce"/>
+    <itemref idref="turkey-tetrazzini"/>
   </spine>
 </package>
