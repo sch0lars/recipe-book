@@ -20,12 +20,15 @@
     <item id="bbq-pulled-pork" href="Text/bbq_pulled_pork.xhtml" media-type="application/xhtml+xml"/>
     <item id="bbq-ribs" href="Text/bbq_ribs.xhtml" media-type="application/xhtml+xml"/>
     <item id="beef" href="Text/Beef.xhtml" media-type="application/xhtml+xml"/>
+    <item id="beef-and-potato-stew" href="Text/beef_and_potato_stew.xhtml" media-type="application/xhtml+xml"/>
     <item id="beef-stew" href="Text/beef_stew.xhtml" media-type="application/xhtml+xml"/>
     <item id="beef-tips" href="Text/beef_tips.xhtml" media-type="application/xhtml+xml"/>
     <item id="biscuits" href="Text/biscuits.xhtml" media-type="application/xhtml+xml"/>
     <item id="bow-ties-sausage" href="Text/bow_ties_sausage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="brunswick-stew" href="Text/brunswick_stew.xhtml" media-type="application/xhtml+xml"/>
     <item id="butter-chicken" href="Text/butter_chicken.xhtml" media-type="application/xhtml+xml"/>
     <item id="carrot-cake" href="Text/carrot_cake.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cheddar-broccoli-soup" href="Text/cheddar_broccoli_soup.xhtml" media-type="application/xhtml+xml"/>
     <item id="chicken" href="Text/Chicken.xhtml" media-type="application/xhtml+xml"/>
     <item id="chicken-and-dumplings" href="Text/chicken_and_dumplings.xhtml" media-type="application/xhtml+xml"/>
     <item id="chicken-and-rice" href="Text/chicken_and_rice.xhtml" media-type="application/xhtml+xml"/>
@@ -40,6 +43,7 @@
     <item id="cover-image" href="Images/cover.png" properties="cover-image" media-type="image/png"/>
     <item id="desserts" href="Text/Desserts.xhtml" media-type="application/xhtml+xml"/>
     <item id="double-ka-meetha" href="Text/double_ka_meetha.xhtml" media-type="application/xhtml+xml"/>
+    <item id="elote" href="Text/elote.xhtml" media-type="application/xhtml+xml"/>
     <item id="grape-jelly-meatballs" href="Text/grape_jelly_meatballs.xhtml" media-type="application/xhtml+xml"/>
     <item id="hambagu" href="Text/hambagu.xhtml" media-type="application/xhtml+xml"/>
     <item id="hamburger-stroganoff" href="Text/hamburger_stroganoff.xhtml" media-type="application/xhtml+xml"/>
@@ -63,9 +67,11 @@
     <item id="mustard-bbq" href="Text/mustard_bbq.xhtml" media-type="application/xhtml+xml"/>
     <item id="orange-julius" href="Text/orange_julius.xhtml" media-type="application/xhtml+xml"/>
     <item id="pancakes" href="Text/pancakes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="parmesan-garlic-noodles" href="Text/parmesan_garlic_noodles.xhtml" media-type="application/xhtml+xml"/>
     <item id="pasta" href="Text/Pasta.xhtml" media-type="application/xhtml+xml"/>
     <item id="peach-cobbler" href="Text/peach_cobbler.xhtml" media-type="application/xhtml+xml"/>
     <item id="philly-cheesesteak" href="Text/philly_cheesesteak.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pork" href="Text/Pork.xhtml" media-type="application/xhtml+xml"/>
     <item id="pork-chops-onion-soup" href="Text/pork_chops_onion_soup.xhtml" media-type="application/xhtml+xml"/>
     <item id="pot-roast" href="Text/pot_roast.xhtml" media-type="application/xhtml+xml"/>
     <item id="pumpkin-cheesecake" href="Text/pumpkin_cheesecake.xhtml" media-type="application/xhtml+xml"/>
@@ -74,8 +80,11 @@
     <item id="sausage-gravy-biscuits" href="Text/sausage_gravy_biscuits.xhtml" media-type="application/xhtml+xml"/>
     <item id="shrimp-and-grits" href="Text/shrimp_and_grits.xhtml" media-type="application/xhtml+xml"/>
     <item id="shrimp-boil" href="Text/shrimp_boil.xhtml" media-type="application/xhtml+xml"/>
+    <item id="skillet-porkchops" href="Text/skillet_porkchops.xhtml" media-type="application/xhtml+xml"/>
     <item id="sloppy-joes" href="Text/sloppy_joes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="smoked-sausage-pineapple" href="Text/smoked_sausage_pineapple.xhtml" media-type="application/xhtml+xml"/>
     <item id="soondubuchigae" href="Text/soondubuchigae.xhtml" media-type="application/xhtml+xml"/>
+    <item id="soup" href="Text/Soup.xhtml" media-type="application/xhtml+xml"/>
     <item id="spaghetti-sauce" href="Text/spaghetti_sauce.xhtml" media-type="application/xhtml+xml"/>
     <item id="spam-musubi" href="Text/spam_musubi.xhtml" media-type="application/xhtml+xml"/>
     <item id="spinach-quesadillas" href="Text/spinach_quesadillas.xhtml" media-type="application/xhtml+xml"/>
@@ -157,6 +166,7 @@
     <itemref idref="baked-chicken-chimichangas"/>
     <itemref idref="butter-chicken"/>
     <itemref idref="double-ka-meetha"/>
+    <itemref idref="elote"/>
     <itemref idref="hambagu"/>
     <itemref idref="haupia"/>
     <itemref idref="hawaiian-macaroni-salad"/>
@@ -173,8 +183,19 @@
     <itemref idref="pasta"/>
     <itemref idref="baked-ziti"/>
     <itemref idref="bow-ties-sausage"/>
+    <itemref idref="parmesan-garlic-noodles"/>
     <itemref idref="rotini-pasta-salad"/>
     <itemref idref="spaghetti-sauce"/>
     <itemref idref="turkey-tetrazzini"/>
+
+    <itemref idref="pork"/>
+    <itemref idref="skillet-porkchops"/>
+    <itemref idref="smoke-sausage-pineapple"/>
+
+    <itemref idref="soup"/>
+    <itemref idref="beef-and-potato-stew"/>
+    <itemref idref="brunswick-stew"/>
+    <itemref idref="cheddar-broccoli-soup"/>
+    
   </spine>
 </package>
