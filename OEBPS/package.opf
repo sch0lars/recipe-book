@@ -75,6 +75,7 @@
     <item id="pork-chops-onion-soup" href="Text/pork_chops_onion_soup.xhtml" media-type="application/xhtml+xml"/>
     <item id="pot-roast" href="Text/pot_roast.xhtml" media-type="application/xhtml+xml"/>
     <item id="pumpkin-cheesecake" href="Text/pumpkin_cheesecake.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pumpkin-pie" href="Text/pumpkin_pie.xhtml" media-type="application/xhtml+xml"/>
     <item id="ranch-potato-salad" href="Text/ranch_potato_salad.xhtml" media-type="application/xhtml+xml"/>
     <item id="rotini-pasta-salad" href="Text/rotini_pasta_salad.xhtml" media-type="application/xhtml+xml"/>
     <item id="sausage-gravy-biscuits" href="Text/sausage_gravy_biscuits.xhtml" media-type="application/xhtml+xml"/>
@@ -144,6 +145,7 @@
     <itemref idref="orange-julius"/>
     <itemref idref="peach-cobbler"/>
     <itemref idref="pumpkin-cheesecake"/>
+    <itemref idref="pumpkin-pie"/>
 
     <itemref idref="instant-pot"/>
     <itemref idref="baked-potatoes"/>
