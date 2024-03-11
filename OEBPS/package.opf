@@ -34,6 +34,7 @@
     <item id="chicken-and-rice" href="Text/chicken_and_rice.xhtml" media-type="application/xhtml+xml"/>
     <item id="chili-mac" href="Text/chili_mac.xhtml" media-type="application/xhtml+xml"/>
     <item id="chocolate-chip-cookies" href="Text/chocolate_chip_cookies.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chocolate-peanut-butter-cake" href="Text/chocolate_peanut_butter_cake.xhtml" media-type="application/xhtml+xml"/>
     <item id="classic-chili" href="Text/classic_chili.xhtml" media-type="application/xhtml+xml"/>
     <item id="coca-cola-chicken" href="Text/coca_cola_chicken.xhtml" media-type="application/xhtml+xml"/>
     <item id="comfort" href="Text/Comfort.xhtml" media-type="application/xhtml+xml"/>
@@ -141,6 +142,7 @@
     <itemref idref="banana-pudding"/>
     <itemref idref="carrot-cake"/>
     <itemref idref="chocolate-chip-cookies"/>
+    <itemref idref="chocolate-peanut-butter-cake"/>
     <itemref idref="key-lime-cake"/>
     <itemref idref="orange-julius"/>
     <itemref idref="peach-cobbler"/>
