@@ -82,7 +82,7 @@
     <item id="sausage-gravy-biscuits" href="Text/sausage_gravy_biscuits.xhtml" media-type="application/xhtml+xml"/>
     <item id="shrimp-and-grits" href="Text/shrimp_and_grits.xhtml" media-type="application/xhtml+xml"/>
     <item id="shrimp-boil" href="Text/shrimp_boil.xhtml" media-type="application/xhtml+xml"/>
-    <item id="skillet-porkchops" href="Text/skillet_porkchops.xhtml" media-type="application/xhtml+xml"/>
+    <item id="skillet-pork-chops" href="Text/skillet_pork_chops.xhtml" media-type="application/xhtml+xml"/>
     <item id="sloppy-joes" href="Text/sloppy_joes.xhtml" media-type="application/xhtml+xml"/>
     <item id="smoked-sausage-pineapple" href="Text/smoked_sausage_pineapple.xhtml" media-type="application/xhtml+xml"/>
     <item id="soondubuchigae" href="Text/soondubuchigae.xhtml" media-type="application/xhtml+xml"/>
@@ -94,7 +94,7 @@
     <item id="stovetop-mac-and-cheese" href="Text/stovetop_mac_and_cheese.xhtml" media-type="application/xhtml+xml"/>
     <item id="sweet-and-sour-pork" href="Text/sweet_and_sour_pork.xhtml" media-type="application/xhtml+xml"/>
     <item id="styles" href="Styles/styles.css" media-type="text/css"/>
-    <item id="table-of-contents" href="Text/TOC.xhtml" properties="nav" media-type="application/xhtml+xml"/>
+    <item id="table-of-contents" href="Text/toc.xhtml" properties="nav" media-type="application/xhtml+xml"/>
     <item id="taco-sauce" href="Text/taco_sauce.xhtml" media-type="application/xhtml+xml"/>
     <item id="tater-tot-casserole" href="Text/tater_tot_casserole.xhtml" media-type="application/xhtml+xml"/>
     <item id="teriyaki-chicken" href="Text/teriyaki_chicken.xhtml" media-type="application/xhtml+xml"/>
@@ -193,8 +193,8 @@
     <itemref idref="turkey-tetrazzini"/>
 
     <itemref idref="pork"/>
-    <itemref idref="skillet-porkchops"/>
-    <itemref idref="smoke-sausage-pineapple"/>
+    <itemref idref="skillet-pork-chops"/>
+    <itemref idref="smoked-sausage-pineapple"/>
 
     <itemref idref="soup"/>
     <itemref idref="beef-and-potato-stew"/>
