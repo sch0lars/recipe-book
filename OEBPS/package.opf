@@ -92,6 +92,7 @@
     <item id="spinach-quesadillas" href="Text/spinach_quesadillas.xhtml" media-type="application/xhtml+xml"/>
     <item id="stewed-squash" href="Text/stewed_squash.xhtml" media-type="application/xhtml+xml"/>
     <item id="stovetop-mac-and-cheese" href="Text/stovetop_mac_and_cheese.xhtml" media-type="application/xhtml+xml"/>
+    <item id="stovetop-rice" href="Text/stovetop_rice.xhtml" media-type="application/xhtml+xml"/>
     <item id="sweet-and-sour-pork" href="Text/sweet_and_sour_pork.xhtml" media-type="application/xhtml+xml"/>
     <item id="styles" href="Styles/styles.css" media-type="text/css"/>
     <item id="table-of-contents" href="Text/toc.xhtml" properties="nav" media-type="application/xhtml+xml"/>
@@ -136,6 +137,7 @@
     <itemref idref="shrimp-boil"/>
     <itemref idref="stewed-squash"/>
     <itemref idref="stovetop-mac-and-cheese"/>
+    <itemref idref="stovetop-rice"/>
 
     <itemref idref="desserts"/>
     <itemref idref="banana-bread"/>
