@@ -51,6 +51,7 @@
     <item id="hash-browns" href="Text/hash_browns.xhtml" media-type="application/xhtml+xml"/>
     <item id="haupia" href="Text/haupia.xhtml" media-type="application/xhtml+xml"/>
     <item id="hawaiian-macaroni-salad" href="Text/hawaiian_macaroni_salad.xhtml" media-type="application/xhtml+xml"/>
+    <item id="healthy" href="Text/Healthy.xhtml" media-type="application/xhtml+xml"/>
     <item id="honey-chicken" href="Text/honey_chicken.xhtml" media-type="application/xhtml+xml"/>
     <item id="honey-mustard" href="Text/honey_mustard.xhtml" media-type="application/xhtml+xml"/>
     <item id="hot-honey-chicken-sandwiches" href="Text/hot_honey_chicken_sandwiches.xhtml" media-type="application/xhtml+xml"/>
@@ -67,10 +68,12 @@
     <item id="meatloaf" href="Text/meatloaf.xhtml" media-type="application/xhtml+xml"/>
     <item id="mustard-bbq" href="Text/mustard_bbq.xhtml" media-type="application/xhtml+xml"/>
     <item id="orange-julius" href="Text/orange_julius.xhtml" media-type="application/xhtml+xml"/>
+    <item id="orange-salad-with-avocado" href="Text/orange_salad_with_avocado.xhtml" media-type="application/xhtml+xml"/>
     <item id="pancakes" href="Text/pancakes.xhtml" media-type="application/xhtml+xml"/>
     <item id="parmesan-garlic-noodles" href="Text/parmesan_garlic_noodles.xhtml" media-type="application/xhtml+xml"/>
     <item id="pasta" href="Text/Pasta.xhtml" media-type="application/xhtml+xml"/>
     <item id="peach-cobbler" href="Text/peach_cobbler.xhtml" media-type="application/xhtml+xml"/>
+    <item id="peas-and-carrots" href="Text/peas_and_carrots.xhtml" media-type="application/xhtml+xml"/>
     <item id="philly-cheesesteak" href="Text/philly_cheesesteak.xhtml" media-type="application/xhtml+xml"/>
     <item id="pork" href="Text/Pork.xhtml" media-type="application/xhtml+xml"/>
     <item id="pork-chops-onion-soup" href="Text/pork_chops_onion_soup.xhtml" media-type="application/xhtml+xml"/>
@@ -150,6 +153,10 @@
     <itemref idref="peach-cobbler"/>
     <itemref idref="pumpkin-cheesecake"/>
     <itemref idref="pumpkin-pie"/>
+
+    <itemref idref="healthy"/>
+    <itemref idref="orange-salad-with-avocado"/>
+    <itemref idref="peas-and-carrots"/>
 
     <itemref idref="instant-pot"/>
     <itemref idref="baked-potatoes"/>
