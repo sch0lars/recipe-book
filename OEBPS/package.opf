@@ -63,6 +63,7 @@
     <item id="key-lime-cake" href="Text/key_lime_cake.xhtml" media-type="application/xhtml+xml"/>
     <item id="kimchi-spam-fried-rice" href="Text/kimchi_spam_fried_rice.xhtml" media-type="application/xhtml+xml"/>
     <item id="korean-beef-bowls" href="Text/korean_beef_bowls.xhtml" media-type="application/xhtml+xml"/>
+    <item id="lemon-poke-cake" href="Text/lemon_poke_cake.xhtml" media-type="application/xhtml+xml"/>
     <item id="mango-sticky-rice" href="Text/mango_sticky_rice.xhtml" media-type="application/xhtml+xml"/>
     <item id="mayo-chicken" href="Text/mayo_chicken.xhtml" media-type="application/xhtml+xml"/>
     <item id="meatloaf" href="Text/meatloaf.xhtml" media-type="application/xhtml+xml"/>
@@ -78,9 +79,11 @@
     <item id="pork" href="Text/Pork.xhtml" media-type="application/xhtml+xml"/>
     <item id="pork-chops-onion-soup" href="Text/pork_chops_onion_soup.xhtml" media-type="application/xhtml+xml"/>
     <item id="pot-roast" href="Text/pot_roast.xhtml" media-type="application/xhtml+xml"/>
+    <item id="potatoes-au-gratin" href="Text/potatoes_au_gratin.xhtml" media-type="application/xhtml+xml"/>
     <item id="pumpkin-cheesecake" href="Text/pumpkin_cheesecake.xhtml" media-type="application/xhtml+xml"/>
     <item id="pumpkin-pie" href="Text/pumpkin_pie.xhtml" media-type="application/xhtml+xml"/>
     <item id="ranch-potato-salad" href="Text/ranch_potato_salad.xhtml" media-type="application/xhtml+xml"/>
+    <item id="roasted-cornish-hens" href="Text/roasted_cornish_hens.xhtml" media-type="application/xhtml+xml"/>
     <item id="rotini-pasta-salad" href="Text/rotini_pasta_salad.xhtml" media-type="application/xhtml+xml"/>
     <item id="sausage-gravy-biscuits" href="Text/sausage_gravy_biscuits.xhtml" media-type="application/xhtml+xml"/>
     <item id="shrimp-and-grits" href="Text/shrimp_and_grits.xhtml" media-type="application/xhtml+xml"/>
@@ -134,6 +137,7 @@
     <itemref idref="meatloaf"/>
     <itemref idref="mustard-bbq"/>
     <itemref idref="pancakes"/>
+    <itemref idref="potatoes-au-gratin"/>
     <itemref idref="ranch-potato-salad"/>
     <itemref idref="sausage-gravy-biscuits"/>
     <itemref idref="shrimp-and-grits"/>
@@ -149,6 +153,7 @@
     <itemref idref="chocolate-chip-cookies"/>
     <itemref idref="chocolate-peanut-butter-cake"/>
     <itemref idref="key-lime-cake"/>
+    <itemref idref="lemon-poke-cake"/>
     <itemref idref="orange-julius"/>
     <itemref idref="peach-cobbler"/>
     <itemref idref="pumpkin-cheesecake"/>
@@ -157,6 +162,7 @@
     <itemref idref="healthy"/>
     <itemref idref="orange-salad-with-avocado"/>
     <itemref idref="peas-and-carrots"/>
+    <itemref idref="roasted-cornish-hens"/>
 
     <itemref idref="instant-pot"/>
     <itemref idref="baked-potatoes"/>
