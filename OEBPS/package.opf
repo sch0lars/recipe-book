@@ -45,6 +45,7 @@
     <item id="desserts" href="Text/Desserts.xhtml" media-type="application/xhtml+xml"/>
     <item id="double-ka-meetha" href="Text/double_ka_meetha.xhtml" media-type="application/xhtml+xml"/>
     <item id="elote" href="Text/elote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="garlic-mashed-potatoes" href="Text/garlic_mashed_potatoes.xhtml" media-type="application/html+xml"/>
     <item id="grape-jelly-meatballs" href="Text/grape_jelly_meatballs.xhtml" media-type="application/xhtml+xml"/>
     <item id="hambagu" href="Text/hambagu.xhtml" media-type="application/xhtml+xml"/>
     <item id="hamburger-stroganoff" href="Text/hamburger_stroganoff.xhtml" media-type="application/xhtml+xml"/>
@@ -131,6 +132,7 @@
     <itemref idref="biscuits"/>
     <itemref idref="chicken-and-dumplings"/>
     <itemref idref="cornbread-dressing"/>
+    <itemref idref="garlic-mashed-potatoes"/>
     <itemref idref="hash-browns"/>
     <itemref idref="honey-mustard"/>
     <itemref idref="jambalaya"/>   
