@@ -28,6 +28,7 @@
     <item id="brunswick-stew" href="Text/brunswick_stew.xhtml" media-type="application/xhtml+xml"/>
     <item id="butter-chicken" href="Text/butter_chicken.xhtml" media-type="application/xhtml+xml"/>
     <item id="carrot-cake" href="Text/carrot_cake.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cajun-pasta" href="Text/cajun_pasta.xhtml" media-type="application/xhtml+xml"/>
     <item id="cheddar-broccoli-soup" href="Text/cheddar_broccoli_soup.xhtml" media-type="application/xhtml+xml"/>
     <item id="chicken" href="Text/Chicken.xhtml" media-type="application/xhtml+xml"/>
     <item id="chicken-and-dumplings" href="Text/chicken_and_dumplings.xhtml" media-type="application/xhtml+xml"/>
@@ -42,6 +43,7 @@
     <item id="cornbread-dressing" href="Text/cornbread_dressing.xhtml" media-type="application/xhtml+xml"/>
     <item id="cover" href="Text/Cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="cover-image" href="Images/cover.png" properties="cover-image" media-type="image/png"/>
+    <item id="cream-cheese-brownies" href="Text/cream_cheese_brownies.xhtml" media-type="application/xhtml+xml"/>
     <item id="desserts" href="Text/Desserts.xhtml" media-type="application/xhtml+xml"/>
     <item id="double-ka-meetha" href="Text/double_ka_meetha.xhtml" media-type="application/xhtml+xml"/>
     <item id="elote" href="Text/elote.xhtml" media-type="application/xhtml+xml"/>
@@ -154,6 +156,7 @@
     <itemref idref="carrot-cake"/>
     <itemref idref="chocolate-chip-cookies"/>
     <itemref idref="chocolate-peanut-butter-cake"/>
+    <itemref idref="cream-cheese-brownies"/>
     <itemref idref="key-lime-cake"/>
     <itemref idref="lemon-poke-cake"/>
     <itemref idref="orange-julius"/>
@@ -204,6 +207,7 @@
     <itemref idref="pasta"/>
     <itemref idref="baked-ziti"/>
     <itemref idref="bow-ties-sausage"/>
+    <itemref idref="cajun-pasta"/>
     <itemref idref="parmesan-garlic-noodles"/>
     <itemref idref="rotini-pasta-salad"/>
     <itemref idref="spaghetti-sauce"/>
