@@ -25,6 +25,7 @@
     <item id="beef-tips" href="Text/beef_tips.xhtml" media-type="application/xhtml+xml"/>
     <item id="biscuits" href="Text/biscuits.xhtml" media-type="application/xhtml+xml"/>
     <item id="bow-ties-sausage" href="Text/bow_ties_sausage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bread" href="Text/Bread.xhtml" media-type="application/xhtml+xml"/>
     <item id="brunswick-stew" href="Text/brunswick_stew.xhtml" media-type="application/xhtml+xml"/>
     <item id="butter-chicken" href="Text/butter_chicken.xhtml" media-type="application/xhtml+xml"/>
     <item id="carrot-cake" href="Text/carrot_cake.xhtml" media-type="application/xhtml+xml"/>
@@ -57,6 +58,7 @@
     <item id="healthy" href="Text/Healthy.xhtml" media-type="application/xhtml+xml"/>
     <item id="honey-chicken" href="Text/honey_chicken.xhtml" media-type="application/xhtml+xml"/>
     <item id="honey-mustard" href="Text/honey_mustard.xhtml" media-type="application/xhtml+xml"/>
+    <item id="honey-whole-wheat" href="Text/honey_whole_wheat.xhtml" media-type="application/xhtml+xml"/>
     <item id="hot-honey-chicken-sandwiches" href="Text/hot_honey_chicken_sandwiches.xhtml" media-type="application/xhtml+xml"/>
     <item id="instant-pot" href="Text/InstantPot.xhtml" media-type="application/xhtml+xml"/>
     <item id="instant-pot-burgers" href="Text/instant_pot_burgers.xhtml" media-type="application/xhtml+xml"/>
@@ -122,6 +124,9 @@
     <itemref idref="hamburger-stroganoff"/>
     <itemref idref="sloppy-joes"/>
     <itemref idref="tater-tot-casserole"/>
+
+    <itemref idref="bread"/>
+    <itemref idref="honey-whole-wheat"/>
     
     <itemref idref="chicken"/>
     <itemref idref="coca-cola-chicken"/>
