@@ -73,6 +73,7 @@
     <item id="mayo-chicken" href="Text/mayo_chicken.xhtml" media-type="application/xhtml+xml"/>
     <item id="meatloaf" href="Text/meatloaf.xhtml" media-type="application/xhtml+xml"/>
     <item id="mustard-bbq" href="Text/mustard_bbq.xhtml" media-type="application/xhtml+xml"/>
+    <item id="oatmeal-cookies" href="Text/oatmeal_cookies.xhtml" media-type="application/xhtml+xml"/>
     <item id="orange-julius" href="Text/orange_julius.xhtml" media-type="application/xhtml+xml"/>
     <item id="orange-salad-with-avocado" href="Text/orange_salad_with_avocado.xhtml" media-type="application/xhtml+xml"/>
     <item id="pancakes" href="Text/pancakes.xhtml" media-type="application/xhtml+xml"/>
@@ -104,6 +105,7 @@
     <item id="stewed-squash" href="Text/stewed_squash.xhtml" media-type="application/xhtml+xml"/>
     <item id="stovetop-mac-and-cheese" href="Text/stovetop_mac_and_cheese.xhtml" media-type="application/xhtml+xml"/>
     <item id="stovetop-rice" href="Text/stovetop_rice.xhtml" media-type="application/xhtml+xml"/>
+    <item id="swedish-meatballs" href="Text/swedish_meatballs.xhtml" media-type="application/xhtml+xml"/>
     <item id="sweet-and-sour-pork" href="Text/sweet_and_sour_pork.xhtml" media-type="application/xhtml+xml"/>
     <item id="styles" href="Styles/styles.css" media-type="text/css"/>
     <item id="table-of-contents" href="Text/toc.xhtml" properties="nav" media-type="application/xhtml+xml"/>
@@ -121,7 +123,6 @@
     <itemref idref="classic-chili"/>
     <itemref idref="coney-sauce"/>
     <itemref idref="grape-jelly-meatballs"/>
-    <itemref idref="hamburger-stroganoff"/>
     <itemref idref="sloppy-joes"/>
     <itemref idref="tater-tot-casserole"/>
 
@@ -164,6 +165,7 @@
     <itemref idref="cream-cheese-brownies"/>
     <itemref idref="key-lime-cake"/>
     <itemref idref="lemon-poke-cake"/>
+    <itemref idref="oatmeal-cookies"/>
     <itemref idref="orange-julius"/>
     <itemref idref="peach-cobbler"/>
     <itemref idref="pumpkin-cheesecake"/>
@@ -205,6 +207,7 @@
     <itemref idref="soondubuchigae"/>
     <itemref idref="spam-musubi"/>
     <itemref idref="spinach-quesadillas"/>
+    <itemref idref="swedish-meatballs"/>
     <itemref idref="taco-sauce"/>
     <itemref idref="teriyaki-sauce"/>
     <itemref idref="tomato-egg-stir-fry"/>
@@ -213,6 +216,7 @@
     <itemref idref="baked-ziti"/>
     <itemref idref="bow-ties-sausage"/>
     <itemref idref="cajun-pasta"/>
+    <itemref idref="hamburger-stroganoff"/>
     <itemref idref="parmesan-garlic-noodles"/>
     <itemref idref="rotini-pasta-salad"/>
     <itemref idref="spaghetti-sauce"/>
